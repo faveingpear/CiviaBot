@@ -1,0 +1,27 @@
+{
+  "name": "civiabot",
+  "version": "0.0.1",
+  "description": "CiviaBot-test",
+  "main": "CiviaBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faveingpear/CiviaBot.git"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Faveing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faveingpear/CiviaBot/issues"
+  },
+  "homepage": "https://github.com/faveingpear/CiviaBot#readme",
+  "dependencies": {
+    "bili-api": "^1.5.0",
+    "discord.js": "^12.3.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
